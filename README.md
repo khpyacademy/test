@@ -8,3 +8,4 @@ I like:
 * apple
 * orange
 * banana
+* pineapple
